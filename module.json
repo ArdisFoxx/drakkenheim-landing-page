@@ -1,0 +1,53 @@
+{
+    "name": "drakkenheim-landing-page",
+    "title": "Drakkenheim Landing Page",
+    "author": "ArdisFoxx & SinLupus",
+    "description": "A landing page for Drakkenheim campaigns. Comes complete with Drakkenheim Roll Tables and journal entries to aid in running a Drakkenheim campaign, including every Drakkenheim quest in the book.",
+    "packs": [
+        {
+            "name": "drakkenheim-landing-page",
+            "label": "Drakkenheim Landing Page",
+            "type": "Scene",
+            "path": "packs/drakkenheim-landing-page.db",
+            "entity": "Scene",
+            "module": "drakkenheim-landing-page"
+        },
+        {
+            "name": "drakkenheim-journals",
+            "label": "Drakkenheim Journals",
+            "type": "JournalEntry",
+            "path": "packs/drakkenheim-journals.db",
+            "entity": "JournalEntry",
+            "module": "drakkenheim-landing-page"
+        },
+        {
+            "name": "drakkenheim-roll-tables",
+            "label": "Drakkenheim Roll Tables",
+            "type": "RollTable",
+            "path": "packs/drakkenheim-roll-tables.db",
+            "entity": "RollTable",
+            "module": "drakkenheim-landing-page"
+        },
+        {
+            "name": "drakkenheim-macros",
+            "label": "Drakkenheim Macros",
+            "type": "Macro",
+            "path": "packs/drakkenheim-macros.db",
+            "entity": "Macro",
+            "module": "drakkenheim-landing-page"
+        }
+    ],
+    "id": "drakkenheim-landing-page",
+    "authors": [
+        {
+            "name": "ArdisFoxx & SinLupus"
+        }
+    ],
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": 10
+    },
+    "version": "1.1"
+}
