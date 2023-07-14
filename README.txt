@@ -4,6 +4,7 @@ https://ardisfoxxart.carrd.co/
 
 Change log: 
 1.0.2 - Public release for Foundry v11
+1.0.3 - Changed compatibility to require v11, as Foundry changed the way compendium folders work in v11.
 
 The whole landing page is interactive using Monk's Active Tile Triggers. Features:
 
