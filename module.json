@@ -3,6 +3,32 @@
     "title": "Drakkenheim Landing Page",
     "author": "ArdisFoxx & SinLupus",
     "description": "A landing page for Drakkenheim campaigns. Comes complete with Drakkenheim Roll Tables and journal entries to aid in running a Drakkenheim campaign, including every Drakkenheim quest in the book.",
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system"
+            },
+            {
+                "id": "pf2e",
+                "type": "system"
+            }
+        ],
+        "requires": [
+            {
+                "id": "LockView",
+                "type": "module"
+            },
+            {
+                "id": "monks-active-tiles",
+                "type": "module"
+            },
+            {
+                "id": "monks-enhanced-journal",
+                "type": "module"
+            }
+        ]
+    },
     "packs": [
         {
             "name": "drakkenheim-landing-page",
