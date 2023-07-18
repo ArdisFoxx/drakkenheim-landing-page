@@ -7,6 +7,7 @@ Change log:
 1.0.3 - Changed compatibility to require v11, as Foundry changed the way compendium folders work in v11.
 1.0.4 - Added tokens for Petra, Ansom and Blackjack Mel, and a large number of generic tokens for use with other humanoids and monsters.
 1.0.5 - Changes Drakkenheim map to the correct one with 21 legend keys. Adds a brochure to the landing page to switch to Emberwood map. Adds shop vendors to Emberwood village map. 
+Note that the gold reward values in quests will need to be double checked for the system you are running it in. As I'm running my Drakkenheim game in PF2e, the gold rewards may reflect that.
 
 The whole landing page is interactive using Monk's Active Tile Triggers. Features:
 
@@ -35,9 +36,9 @@ https://foundryvtt.com/packages/monks-active-tiles
 https://foundryvtt.com/packages/monks-enhanced-journal
 https://foundryvtt.com/packages/LockView/
 
-Activate the modules above and "Drakkenheim Landing Page".
+Activate the module "Drakkenheim Landing Page" and it will prompt you to activate the ones above.
 
-Go to your compendiums and search for "Drakkenheim". You will find Scenes, Journals, Macros and Roll Tables. Import them all.
+Go to your compendiums and search for "Drakkenheim". You will find Scenes, Journals, Macros and Roll Tables. Import them all. Check the box "Keep Document IDs".
 -----------------
 
 //Customize It For Your Campaign//
