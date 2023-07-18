@@ -1,8 +1,15 @@
-2023/07/18-02:58:15.261011 ffff83fff0a0 Recovering log #36
-2023/07/18-02:58:15.267272 ffff83fff0a0 Delete type=3 #34
-2023/07/18-02:58:15.267297 ffff83fff0a0 Delete type=0 #36
-2023/07/18-02:59:04.648085 fffe61f8f0a0 Level-0 table #42: started
-2023/07/18-02:59:04.648100 fffe61f8f0a0 Level-0 table #42: 0 bytes OK
-2023/07/18-02:59:04.649736 fffe61f8f0a0 Delete type=0 #40
-2023/07/18-02:59:04.649815 fffe61f8f0a0 Manual compaction at level-0 from '!folders!2I2DwkS1TZuaKIjB' @ 72057594037927935 : 1 .. '!journal.pages!xmdj5WGSUcC2SGQt.ja5PHFNKSAQ6jIni' @ 0 : 0; will stop at (end)
-2023/07/18-02:59:04.654770 fffe61f8f0a0 Manual compaction at level-1 from '!folders!2I2DwkS1TZuaKIjB' @ 72057594037927935 : 1 .. '!journal.pages!xmdj5WGSUcC2SGQt.ja5PHFNKSAQ6jIni' @ 0 : 0; will stop at (end)
+2023/07/18-03:26:00.513137 ffff83fff0a0 Recovering log #41
+2023/07/18-03:26:00.518664 ffff83fff0a0 Delete type=3 #39
+2023/07/18-03:26:00.518691 ffff83fff0a0 Delete type=0 #41
+2023/07/18-03:32:52.246181 fffe61f8f0a0 Level-0 table #46: started
+2023/07/18-03:32:52.251489 fffe61f8f0a0 Level-0 table #46: 260250 bytes OK
+2023/07/18-03:32:52.253039 fffe61f8f0a0 Delete type=0 #44
+2023/07/18-03:32:52.253374 fffe61f8f0a0 Manual compaction at level-0 from '!folders!2I2DwkS1TZuaKIjB' @ 72057594037927935 : 1 .. '!journal.pages!xmdj5WGSUcC2SGQt.ja5PHFNKSAQ6jIni' @ 0 : 0; will stop at (end)
+2023/07/18-03:32:52.259427 fffe61f8f0a0 Manual compaction at level-1 from '!folders!2I2DwkS1TZuaKIjB' @ 72057594037927935 : 1 .. '!journal.pages!xmdj5WGSUcC2SGQt.ja5PHFNKSAQ6jIni' @ 0 : 0; will stop at '!journal.pages!xmdj5WGSUcC2SGQt.ja5PHFNKSAQ6jIni' @ 523 : 1
+2023/07/18-03:32:52.259438 fffe61f8f0a0 Compacting 1@1 + 1@2 files
+2023/07/18-03:32:52.265549 fffe61f8f0a0 Generated table #47@1: 244 keys, 258300 bytes
+2023/07/18-03:32:52.265561 fffe61f8f0a0 Compacted 1@1 + 1@2 files => 258300 bytes
+2023/07/18-03:32:52.266923 fffe61f8f0a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/18-03:32:52.267007 fffe61f8f0a0 Delete type=2 #46
+2023/07/18-03:32:52.267118 fffe61f8f0a0 Delete type=2 #38
+2023/07/18-03:32:52.272543 fffe61f8f0a0 Manual compaction at level-1 from '!journal.pages!xmdj5WGSUcC2SGQt.ja5PHFNKSAQ6jIni' @ 523 : 1 .. '!journal.pages!xmdj5WGSUcC2SGQt.ja5PHFNKSAQ6jIni' @ 0 : 0; will stop at (end)
