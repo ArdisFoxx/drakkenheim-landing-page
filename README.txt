@@ -7,6 +7,7 @@ Change log:
 1.0.3 - Changed compatibility to require v11, as Foundry changed the way compendium folders work in v11.
 1.0.4 - Added tokens for Petra, Ansom and Blackjack Mel, and a large number of generic tokens for use with other humanoids and monsters.
 1.0.5 - Changes Drakkenheim map to the correct one with 21 legend keys. Adds a brochure to the landing page to switch to Emberwood map. Adds shop vendors to Emberwood village map. Adds heraldry to Faction journals
+1.0.6 - Added Alternate Ryan Greymere tokens and redux maps
 
 The whole landing page is interactive using Monk's Active Tile Triggers. Features:
 
