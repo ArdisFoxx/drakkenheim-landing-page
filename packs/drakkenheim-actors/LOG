@@ -1,0 +1,30 @@
+2024/05/25-13:14:01.643 8a40 Recovering log #56
+2024/05/25-13:14:01.655 8a40 Delete type=0 #56
+2024/05/25-13:14:01.655 8a40 Delete type=3 #54
+2024/05/25-15:15:49.953 a23c Level-0 table #61: started
+2024/05/25-15:15:49.984 a23c Level-0 table #61: 2498627 bytes OK
+2024/05/25-15:15:49.991 a23c Delete type=0 #59
+2024/05/25-16:09:52.083 a23c Level-0 table #63: started
+2024/05/25-16:09:52.092 a23c Level-0 table #63: 396135 bytes OK
+2024/05/25-16:09:52.097 a23c Delete type=0 #60
+2024/05/25-16:09:52.104 a23c Manual compaction at level-0 from '!actors!0VZXobDNHivdqjQT' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at '!folders!dCE1IzHq2Lr7CjSh' @ 8237 : 1
+2024/05/25-16:09:52.104 a23c Compacting 1@0 + 1@1 files
+2024/05/25-16:09:52.136 a23c Generated table #64@0: 2664 keys, 2129611 bytes
+2024/05/25-16:09:52.159 a23c Generated table #65@0: 1095 keys, 755592 bytes
+2024/05/25-16:09:52.159 a23c Compacted 1@0 + 1@1 files => 2885203 bytes
+2024/05/25-16:09:52.162 a23c compacted to: files[ 0 2 2 0 0 0 0 ]
+2024/05/25-16:09:52.162 a23c Delete type=2 #61
+2024/05/25-16:09:52.162 a23c Delete type=2 #63
+2024/05/25-16:09:52.174 a23c Manual compaction at level-0 from '!folders!dCE1IzHq2Lr7CjSh' @ 8237 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
+2024/05/25-16:09:52.180 a23c Expanding@1 1+2 (2129611+3591310 bytes) to 2+2 (2885203+3591310 bytes)
+2024/05/25-16:09:52.180 a23c Manual compaction at level-1 from '!actors!0VZXobDNHivdqjQT' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at '!folders!u1ohQiv1cfIvDyaJ' @ 4536 : 1
+2024/05/25-16:09:52.180 a23c Compacting 2@1 + 2@2 files
+2024/05/25-16:09:52.215 a23c Generated table #66@1: 2070 keys, 2126304 bytes
+2024/05/25-16:09:52.256 a23c Generated table #67@1: 2208 keys, 1427876 bytes
+2024/05/25-16:09:52.256 a23c Compacted 2@1 + 2@2 files => 3554180 bytes
+2024/05/25-16:09:52.260 a23c compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/05/25-16:09:52.260 a23c Delete type=2 #8
+2024/05/25-16:09:52.260 a23c Delete type=2 #9
+2024/05/25-16:09:52.260 a23c Delete type=2 #64
+2024/05/25-16:09:52.260 a23c Delete type=2 #65
+2024/05/25-16:09:52.261 a23c Manual compaction at level-1 from '!folders!u1ohQiv1cfIvDyaJ' @ 4536 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)

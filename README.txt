@@ -9,7 +9,11 @@ Change log:
 1.0.5 - Changes Drakkenheim map to the correct one with 21 legend keys. Adds a brochure to the landing page to switch to Emberwood map. Adds shop vendors to Emberwood village map. Adds heraldry to Faction journals
 Note that the gold reward values in quests will need to be double checked for the system you are running it in. As I'm running my Drakkenheim game in PF2e, the gold rewards may reflect that.
 1.0.6 - Added Alternate Ryan Greymere tokens and redux maps
+2.0.0 - Initial Pathfinder 2e Isometric Release. An ongoing build of my active Drakkenheim campaign converted to Pathfinder 2e and using Epic Isometric and The Dungeon Sketcher isometric maps and tokens. The maps and tokens can be purchased by signing up to their Patreon pages, linked below. Please email me at ardisfoxxart@gmail.com with a screenshot of your Patreon receipt and I will send you the repackaged token files, as well as my 5GB D&D Drakkenheim Music collection using assets from Tabletop Audio and numerous other sources.
+https://www.patreon.com/epicisometric/
+https://www.patreon.com/TheDungeonSketcher/
 
+-----------------
 
 The whole landing page is interactive using Monk's Active Tile Triggers. Features:
 
@@ -38,9 +42,9 @@ https://foundryvtt.com/packages/monks-active-tiles
 https://foundryvtt.com/packages/monks-enhanced-journal
 https://foundryvtt.com/packages/LockView/
 
-Activate the module "Drakkenheim Landing Page" and it will prompt you to activate the ones above.
+Activate the modules above and "Drakkenheim Landing Page".
 
-Go to your compendiums and search for "Drakkenheim". You will find Scenes, Journals, Macros and Roll Tables. Import them all. Check the box "Keep Document IDs".
+Go to your compendiums and search for "Drakkenheim". You will find Scenes, Journals, Macros and Roll Tables. Import them all.
 -----------------
 
 //Customize It For Your Campaign//
