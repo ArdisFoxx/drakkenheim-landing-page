@@ -77,8 +77,8 @@
     }
   ],
   "url": "https://github.com/ArdisFoxx/drakkenheim-landing-page",
-  "manifest": "https://github.com/ArdisFoxx/drakkenheim-landing-page/releases/download/v2.0.0/module.json",
-  "download": "https://github.com/ArdisFoxx/drakkenheim-landing-page/releases/download/v2.0.0/drakkenheim-landing-page.zip",
+  "manifest": "https://github.com/ArdisFoxx/drakkenheim-landing-page/releases/download/v2.0.1/module.json",
+  "download": "https://github.com/ArdisFoxx/drakkenheim-landing-page/releases/download/v2.0.1/drakkenheim-landing-page.zip",
   "id": "drakkenheim-landing-page",
   "authors": [
     {
