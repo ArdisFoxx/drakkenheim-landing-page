@@ -1,8 +1,8 @@
-2024/05/25-16:44:06.787 5edc Recovering log #509
-2024/05/25-16:44:06.800 5edc Delete type=0 #509
-2024/05/25-16:44:06.800 5edc Delete type=3 #507
-2024/05/25-16:52:16.480 50b4 Level-0 table #515: started
-2024/05/25-16:52:16.480 50b4 Level-0 table #515: 0 bytes OK
-2024/05/25-16:52:16.487 50b4 Delete type=0 #513
-2024/05/25-16:52:16.496 50b4 Manual compaction at level-0 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!sZP2Yg5duSa4Eaud.uLJwsQEb6mROHbCA' @ 0 : 0; will stop at (end)
-2024/05/25-16:52:16.496 50b4 Manual compaction at level-1 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!sZP2Yg5duSa4Eaud.uLJwsQEb6mROHbCA' @ 0 : 0; will stop at (end)
+2024/05/30-20:46:34.822 1b8 Recovering log #528
+2024/05/30-20:46:34.836 1b8 Delete type=0 #528
+2024/05/30-20:46:34.836 1b8 Delete type=3 #526
+2024/05/31-00:20:18.529 c348 Level-0 table #533: started
+2024/05/31-00:20:18.529 c348 Level-0 table #533: 0 bytes OK
+2024/05/31-00:20:18.538 c348 Delete type=0 #531
+2024/05/31-00:20:18.550 c348 Manual compaction at level-0 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!sZP2Yg5duSa4Eaud.uLJwsQEb6mROHbCA' @ 0 : 0; will stop at (end)
+2024/05/31-00:20:18.550 c348 Manual compaction at level-1 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!sZP2Yg5duSa4Eaud.uLJwsQEb6mROHbCA' @ 0 : 0; will stop at (end)
