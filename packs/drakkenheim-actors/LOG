@@ -1,8 +1,17 @@
-2024/05/31-00:46:28.907 2e2c Recovering log #96
-2024/05/31-00:46:28.920 2e2c Delete type=0 #96
-2024/05/31-00:46:28.920 2e2c Delete type=3 #94
-2024/05/31-00:56:22.819 3dd8 Level-0 table #103: started
-2024/05/31-00:56:22.819 3dd8 Level-0 table #103: 0 bytes OK
-2024/05/31-00:56:22.830 3dd8 Delete type=0 #101
-2024/05/31-00:56:22.858 3dd8 Manual compaction at level-0 from '!actors!0VZXobDNHivdqjQT' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
-2024/05/31-00:56:22.858 3dd8 Manual compaction at level-1 from '!actors!0VZXobDNHivdqjQT' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
+2024/05/31-20:43:25.265 3434 Recovering log #102
+2024/05/31-20:43:25.278 3434 Delete type=0 #102
+2024/05/31-20:43:25.278 3434 Delete type=3 #100
+2024/06/01-00:04:51.561 331c Level-0 table #107: started
+2024/06/01-00:04:51.566 331c Level-0 table #107: 26659 bytes OK
+2024/06/01-00:04:51.571 331c Delete type=0 #105
+2024/06/01-00:04:51.583 331c Manual compaction at level-0 from '!actors!0VZXobDNHivdqjQT' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
+2024/06/01-00:04:51.583 331c Manual compaction at level-1 from '!actors!0VZXobDNHivdqjQT' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at '!actors.items!q6EcGvfCZvhGCnho.y8TePj5x2rTRtyMK' @ 9792 : 1
+2024/06/01-00:04:51.583 331c Compacting 1@1 + 2@2 files
+2024/06/01-00:04:51.613 331c Generated table #108@1: 2432 keys, 2127683 bytes
+2024/06/01-00:04:51.627 331c Generated table #109@1: 1270 keys, 886496 bytes
+2024/06/01-00:04:51.627 331c Compacted 1@1 + 2@2 files => 3014179 bytes
+2024/06/01-00:04:51.630 331c compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/06/01-00:04:51.630 331c Delete type=2 #98
+2024/06/01-00:04:51.631 331c Delete type=2 #99
+2024/06/01-00:04:51.631 331c Delete type=2 #107
+2024/06/01-00:04:51.655 331c Manual compaction at level-1 from '!actors.items!q6EcGvfCZvhGCnho.y8TePj5x2rTRtyMK' @ 9792 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)

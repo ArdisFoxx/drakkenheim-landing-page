@@ -9,7 +9,10 @@ Change log:
 1.0.5 - Changes Drakkenheim map to the correct one with 21 legend keys. Adds a brochure to the landing page to switch to Emberwood map. Adds shop vendors to Emberwood village map. Adds heraldry to Faction journals
 Note that the gold reward values in quests will need to be double checked for the system you are running it in. As I'm running my Drakkenheim game in PF2e, the gold rewards may reflect that.
 1.0.6 - Added Alternate Ryan Greymere tokens and redux maps
-2.0.0 - Initial Pathfinder 2e Isometric Release. An ongoing build of my active Drakkenheim campaign converted to Pathfinder 2e and using Epic Isometric and The Dungeon Sketcher isometric maps and tokens. The maps and tokens can be purchased by signing up to their Patreon pages, linked below. Please email me at ardisfoxxart@gmail.com with a screenshot of your Patreon receipt and I will send you the repackaged token files, as well as my 5GB D&D Drakkenheim Music collection using assets from Tabletop Audio and numerous other sources.
+2.0.0 - Initial Pathfinder 2e Isometric Release. 
+An ongoing build of my active Drakkenheim campaign converted to Pathfinder 2e and using Epic Isometric and The Dungeon Sketcher isometric maps and tokens. 
+I have a separate zip file on MEGA with the Drakkenheim Maps required for the module, as well as the isometric maps and tokens from the Patreons linked below. 
+Please email me at ardisfoxxart@gmail.com or DM me on Discord with a screenshot of your Patreon receipt and I will send you the link to dl the repackaged token files which will populate the scenes in this module with maps and tokens. I also included my 5GB D&D Drakkenheim Music collection made using assets from Tabletop Audio and numerous other sources.
 https://www.patreon.com/epicisometric/
 https://www.patreon.com/TheDungeonSketcher/
 
