@@ -2,6 +2,8 @@ Drakkenheim Landing Page
 Made by /u/ArdisFoxx based on original design by /u/Sinlupus
 https://ardisfoxxart.carrd.co/
 
+![The Landing Page](https://github.com/ArdisFoxx/drakkenheim-landing-page/blob/a54158aeb005c406ea030c7dfd8c7b1e8c5d27b3/Drakkenheim%20UI%20Assets/Landing%20Page/Drakkenheim-Landing-Page-v2.jpg?raw=true)
+
 Change log: 
 1.0.2 - Public release for Foundry v11
 1.0.3 - Changed compatibility to require v11, as Foundry changed the way compendium folders work in v11.
@@ -18,7 +20,7 @@ https://www.patreon.com/TheDungeonSketcher/
 
 -----------------
 
-The whole landing page is interactive using Monk's Active Tile Triggers. Features:
+The whole landing page is interactive using Monk's Active Tile Triggers! Features:
 
 -Clicking the gold bag opens the party loot vault (Monk's Enhanced Journal)
 
