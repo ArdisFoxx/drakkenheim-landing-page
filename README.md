@@ -1,6 +1,8 @@
 Drakkenheim Landing Page made by /u/ArdisFoxx is now a full conversion of the Drakkenheim adventure to Pathfinder 2e, and includes isometric maps!
 https://ardisfoxxart.carrd.co/
 
+![Adventure Module](https://github.com/ArdisFoxx/drakkenheim-landing-page/blob/df69f8cb999e99830c36c3a4b656b0b7e2b6ac5c/Drakkenheim%20UI%20Assets/AdventureModuleSummary.png?raw=true)
+
 ![The Landing Page](https://github.com/ArdisFoxx/drakkenheim-landing-page/blob/a54158aeb005c406ea030c7dfd8c7b1e8c5d27b3/Drakkenheim%20UI%20Assets/Landing%20Page/Drakkenheim-Landing-Page-v2.jpg?raw=true)
 
 ![The Clocktower](https://github.com/ArdisFoxx/drakkenheim-landing-page/blob/3cac2251c785a24ad11ffd35847d2daff72e605d/Drakkenheim%20UI%20Assets/MapsIso/Clocktower_Iso.jpg?raw=true)
@@ -29,34 +31,27 @@ https://www.patreon.com/TheDungeonSketcher/
 
 The whole landing page is interactive using Monk's Active Tile Triggers! Features:
 
--Clicking the gold bag opens the party loot vault (Monk's Enhanced Journal)
-
--Clicking the candle opens the Sacred Flame lore page
-
--Clicking the faction icons open their journal pages
-
--Clicking the player cards open the player's personal journals
-
--Clicking the astrolabe opens lore about delerium and the haze. These feature homebrew changes to contamination that make contamination usable in both PF2e and 5e
-
--Clicking the maps opens them in an image view
-
--The faction reputation sliders are all tiles that can be moved around, showing the PCs reputation with factions from nemesis > enemy > neutral > ally > champion
-
--Diablo II sound effects on all the tile triggers
+* Clicking the gold bag opens the party loot vault (Monk's Enhanced Journal)
+* Clicking the candle opens the Sacred Flame lore page
+* Clicking the faction icons open their journal pages
+* Clicking the player cards open the player's personal journals
+* Clicking the astrolabe opens lore about delerium and the haze. These feature homebrew changes to contamination that make contamination usable in both PF2e and 5e
+* Clicking the maps opens them in an image view
+* The faction reputation sliders are all tiles that can be moved around, showing the PCs reputation with factions from nemesis > enemy > neutral > ally > champion
+* Diablo II sound effects on all the tile triggers
 
 -----------------
 
 //Installation Instructions//
 
 Install the Required Modules:
-https://foundryvtt.com/packages/monks-active-tiles
-https://foundryvtt.com/packages/monks-enhanced-journal
-https://foundryvtt.com/packages/LockView/
+* https://foundryvtt.com/packages/monks-active-tiles
+* https://foundryvtt.com/packages/monks-enhanced-journal
+* https://foundryvtt.com/packages/LockView/
 
 Activate the modules above and "Drakkenheim Landing Page".
 
-Go to your compendiums and search for "Drakkenheim". You will find Scenes, Journals, Macros and Roll Tables. Import them all.
+Go to your compendiums and search for "Drakkenheim". You will find Scenes, Journals, Macros and Roll Tables. Import them individually, or just import the Adventure Module compendium.
 -----------------
 
 //Customize It For Your Campaign//
