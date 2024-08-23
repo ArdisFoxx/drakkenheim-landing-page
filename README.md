@@ -19,7 +19,7 @@ Change log:
 
 This module is an ongoing build of my active Drakkenheim campaign converted to Pathfinder 2e, and using Epic Isometric and The Dungeon Sketcher isometric maps and tokens!
 
-I have a separate zip file on MEGA with the Drakkenheim Maps required for the module, as well as the isometric maps and tokens from the Patreons linked below. Please email me at ardisfoxxart@gmail.com or DM me on Discord with a screenshot of your Patreon receipt and I will send you the link to download the repackaged token files which will populate the scenes in this module with maps and tokens! I've also included my 5GB D&D Drakkenheim Music collection made using assets from Tabletop Audio and numerous other sources.
+I have a separate zip file on MEGA with the Drakkenheim Maps required for the module, as well as the isometric maps and tokens from the Patreons linked below. Please email me at ardisfoxxart@gmail.com with a screenshot of your Patreon receipt and I will send you the link to download the repackaged token files which will populate the scenes in this module with maps and tokens! I've also included my 5GB D&D Drakkenheim Music collection made using assets from Tabletop Audio and numerous other sources.
 
 https://www.patreon.com/epicisometric/
 
@@ -79,5 +79,3 @@ Some example quests are active so you will want to deactivate those so your play
 Note that the "modules/drakkenheim-landing-page/Drakkenheim UI Assets" folder also includes images used in my previous module "Drakkenheim Landing Menu". I've left these in there in case they might be useful for you. Check out the Backdrops, Emoji by ArdisFoxx and Tokens subfolders.
 
 The Faction Reputation Sliders on the landing page are all tiles, showing PC's relationship with the factions, from Nemesis > Enemy > Neutral > Ally > Champion. Included in the Drakkenheim UI Assets folder are slider tile images for Enemy/Neutral/Ally in red/grey/blue colours respectively. 
-
-Questions? Hit me up on Discord, ardisfoxxart.
