@@ -1,5 +1,4 @@
-Drakkenheim Landing Page
-Made by /u/ArdisFoxx based on original design by /u/Sinlupus
+Drakkenheim Landing Page made by /u/ArdisFoxx is now a full conversion of the Drakkenheim adventure to Pathfinder 2e, and includes isometric maps!
 https://ardisfoxxart.carrd.co/
 
 ![The Landing Page](https://github.com/ArdisFoxx/drakkenheim-landing-page/blob/a54158aeb005c406ea030c7dfd8c7b1e8c5d27b3/Drakkenheim%20UI%20Assets/Landing%20Page/Drakkenheim-Landing-Page-v2.jpg?raw=true)
