@@ -21,7 +21,7 @@ Change log:
 
 This module is an ongoing build of my active Drakkenheim campaign converted to Pathfinder 2e, and using Epic Isometric and The Dungeon Sketcher isometric maps and tokens!
 
-I have a separate zip file on MEGA with the Drakkenheim Maps required for the module, as well as the isometric maps and tokens from the Patreons linked below. Please email me at ardisfoxxart@gmail.com with a screenshot of your Patreon receipt and I will send you the link to download the repackaged token files which will populate the scenes in this module with maps and tokens! I've also included my 5GB D&D Drakkenheim Music collection made using assets from Tabletop Audio and numerous other sources.
+I have a separate zip file on MEGA with the Drakkenheim Maps required for the module, as well as the isometric maps and tokens from the Patreons linked below. Please email me at ardisfoxxart@gmail.com with a screenshot of your Patreon receipt and I will send you the link to download the repackaged token files which will populate the scenes in this module with maps and tokens (I do it this way so anyone using this module continues to support the creators of the maps that I have repackaged here). I've also included my 5GB D&D Drakkenheim Music collection made using assets from Tabletop Audio and numerous other sources.
 
 https://www.patreon.com/epicisometric/
 
