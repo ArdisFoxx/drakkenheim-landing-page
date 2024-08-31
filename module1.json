@@ -77,8 +77,8 @@
     }
   ],
   "url": "https://github.com/ArdisFoxx/drakkenheim-landing-page",
-  "manifest": "https://github.com/ArdisFoxx/drakkenheim-landing-page/releases/download/v2.12.0/module.json",
-  "download": "https://github.com/ArdisFoxx/drakkenheim-landing-page/releases/download/v2.12.0/drakkenheim-landing-page.zip",
+  "manifest": "https://github.com/ArdisFoxx/drakkenheim-landing-page/releases/download/v2.0.2/module.json",
+  "download": "https://github.com/ArdisFoxx/drakkenheim-landing-page/releases/download/v2.0.2/drakkenheim-landing-page.zip",
   "id": "drakkenheim-landing-page",
   "authors": [
     {
@@ -88,10 +88,10 @@
   ],
   "compatibility": {
     "minimum": "11",
-    "verified": "12",
+    "verified": "11",
     "maximum": "12"
   },
-  "version": "v2.12.0",
+  "version": "v2.0.2",
   "relationships": {
     "requires": [
       {
@@ -122,6 +122,11 @@
     ],
     "recommends": [
       {
+        "id": "fxmaster",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
         "id": "always-hp",
         "type": "module",
         "compatibility": {}
@@ -140,6 +145,15 @@
         "id": "multi-token-edit",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "pf2e-tokens-bestiaries",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "michaelghelfi",
+        "type": "module"
       }
     ]
   }
