@@ -30,11 +30,10 @@ https://www.patreon.com/TheDungeonSketcher/
 
 -----------------
 
-The whole landing page is interactive using Monk's Active Tile Triggers! Features:
+The whole landing page is interactive!
 
-* Clicking the gold bag opens the party loot vault (Monk's Enhanced Journal)
+* Clicking the gold bag opens the party loot vault
 * Clicking the candle opens the Sacred Flame lore page
-* Clicking the faction icons open their journal pages
 * Clicking the player cards open the player's personal journals
 * Clicking the astrolabe opens lore about delerium and the haze. These feature homebrew changes to contamination that make contamination usable in both PF2e and 5e
 * Clicking the maps opens them in an image view
