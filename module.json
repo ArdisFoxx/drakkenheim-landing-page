@@ -100,11 +100,6 @@
         "compatibility": {}
       },
       {
-        "id": "monks-enhanced-journal",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "LockView",
         "type": "module",
         "compatibility": {}
@@ -116,28 +111,6 @@
       },
       {
         "id": "token-variants",
-        "type": "module",
-        "compatibility": {}
-      }
-    ],
-    "recommends": [
-      {
-        "id": "always-hp",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "bossbar",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "combat-tracker-dock",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "multi-token-edit",
         "type": "module",
         "compatibility": {}
       }
