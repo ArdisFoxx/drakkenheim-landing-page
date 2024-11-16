@@ -17,7 +17,8 @@ Change log:
 * 1.0.5 - Changes Drakkenheim map to the correct one with 21 legend keys. Adds a brochure to the landing page to switch to Emberwood map. Adds shop vendors to Emberwood village map. Adds heraldry to Faction journals
 * Note that the gold reward values in quests will need to be double checked for the system you are running it in. As I'm running my Drakkenheim game in PF2e, the gold rewards may reflect that.
 * 1.0.6 - Added Alternate Ryan Greymere tokens and redux maps
-* 2.0.0 - Initial Pathfinder 2e Isometric Release. 
+* 2.0.0 - Initial Pathfinder 2e Isometric Release.
+* 2.12.0 - V12 Foundry update. Features broad updates to the module, including maps, tokens, and journals. Removal of Monk's Enhanced Journal dependency in favour of default core Foundry journals and the Ripper93's Simple Quest module. Emberwood Merchants now configured as Item Piles. Contamination condition updated. Spells updated. New monsters added. Old monsters tweaked and improved. Additional monsters, maps and items added from my home campaign. Den of Desire faction added with a young Oscar Yoren and his incubus companion Belthazar.
 
 This module is an ongoing build of my active Drakkenheim campaign converted to Pathfinder 2e, and using Epic Isometric and The Dungeon Sketcher isometric maps and tokens!
 
@@ -29,11 +30,10 @@ https://www.patreon.com/TheDungeonSketcher/
 
 -----------------
 
-The whole landing page is interactive using Monk's Active Tile Triggers! Features:
+The whole landing page is interactive!
 
-* Clicking the gold bag opens the party loot vault (Monk's Enhanced Journal)
+* Clicking the gold bag opens the party loot vault
 * Clicking the candle opens the Sacred Flame lore page
-* Clicking the faction icons open their journal pages
 * Clicking the player cards open the player's personal journals
 * Clicking the astrolabe opens lore about delerium and the haze. These feature homebrew changes to contamination that make contamination usable in both PF2e and 5e
 * Clicking the maps opens them in an image view
@@ -46,7 +46,6 @@ The whole landing page is interactive using Monk's Active Tile Triggers! Feature
 
 Install the Required Modules:
 * https://foundryvtt.com/packages/monks-active-tiles
-* https://foundryvtt.com/packages/monks-enhanced-journal
 * https://foundryvtt.com/packages/LockView/
 
 Activate the modules above and "Drakkenheim Landing Page".
