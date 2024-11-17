@@ -1,5 +1,10 @@
-Drakkenheim Landing Page made by /u/ArdisFoxx is now a full conversion of the Drakkenheim adventure to Pathfinder 2e, and includes isometric maps!
-https://ardisfoxxart.carrd.co/
+Fan made conversion of Dungeons of Drakkenheim to Pathfinder 2e, complete with landing page and isometric maps.
+
+This module is published without any licensed content from Ghostfire Gaming or Epic Isometric, but it does rely on their content to fully function. I can supply you with the required content if you email me at ardisfoxxart@gmail.com with a screenshot of your purchase receipt for the Dungeons of Drakkenheim PDF+Maps and your Patreon receipt for Epic Isometric. 
+
+https://ghostfiregaming.com/product/dd-dk-pdf-and-maps/
+
+https://www.patreon.com/c/epicisometric/
 
 ![Adventure Module](https://github.com/ArdisFoxx/drakkenheim-landing-page/blob/df69f8cb999e99830c36c3a4b656b0b7e2b6ac5c/Drakkenheim%20UI%20Assets/AdventureModuleSummary.png?raw=true)
 
@@ -19,15 +24,6 @@ Change log:
 * 1.0.6 - Added Alternate Ryan Greymere tokens and redux maps
 * 2.0.0 - Initial Pathfinder 2e Isometric Release.
 * 2.12.0 - V12 Foundry update. Features broad updates to the module, including maps, tokens, and journals. Removal of Monk's Enhanced Journal dependency in favour of default core Foundry journals and the Ripper93's Simple Quest module. Emberwood Merchants now configured as Item Piles. Contamination condition updated. Spells updated. New monsters added. Old monsters tweaked and improved. Additional monsters, maps and items added from my home campaign. Den of Desire faction added with a young Oscar Yoren and his incubus companion Belthazar.
-
-This module is an ongoing build of my active Drakkenheim campaign converted to Pathfinder 2e, and using Epic Isometric and The Dungeon Sketcher isometric maps and tokens!
-
-I have a separate zip file on MEGA with the Drakkenheim Maps required for the module, as well as the isometric maps and tokens from the Patreons linked below. Please email me at ardisfoxxart@gmail.com with a screenshot of your Patreon receipt and I will send you the link to download the repackaged token files which will populate the scenes in this module with maps and tokens (I do it this way so anyone using this module continues to support the creators of the maps that I have repackaged here). I've also included my 5GB D&D Drakkenheim Music collection made using assets from Tabletop Audio and numerous other sources.
-
-https://www.patreon.com/epicisometric/
-
-https://www.patreon.com/TheDungeonSketcher/
-
 -----------------
 
 The whole landing page is interactive!
@@ -43,12 +39,6 @@ The whole landing page is interactive!
 -----------------
 
 //Installation Instructions//
-
-Install the Required Modules:
-* https://foundryvtt.com/packages/monks-active-tiles
-* https://foundryvtt.com/packages/LockView/
-
-Activate the modules above and "Drakkenheim Landing Page".
 
 Go to your compendiums and search for "Drakkenheim". You will find Scenes, Journals, Macros and Roll Tables. Import them individually, or just import the Adventure Module compendium.
 -----------------
