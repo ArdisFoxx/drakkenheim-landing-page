@@ -1,6 +1,6 @@
 Fan made conversion of Dungeons of Drakkenheim to Pathfinder 2e, complete with landing page and isometric maps.
 
-This module is published without any licensed content from Ghostfire Gaming or Epic Isometric, but it does rely on their content to fully function. I can supply you with the required content if you email me at ardisfoxxart@gmail.com with a screenshot of your purchase receipt for the Dungeons of Drakkenheim PDF+Maps and your Patreon receipt for Epic Isometric. 
+This module is published without any licensed content from Ghostfire Gaming or Epic Isometric, but it does rely on their content to fully function. I can supply you with the repackaged files if you email me at ardisfoxxart@gmail.com with a screenshot of your purchase receipt for the Dungeons of Drakkenheim PDF+Maps and your Patreon receipt for Epic Isometric. 
 
 https://ghostfiregaming.com/product/dd-dk-pdf-and-maps/
 
