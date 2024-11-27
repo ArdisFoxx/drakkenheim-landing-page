@@ -1,8 +1,15 @@
-2024/11/15-04:25:56.156883 ffff78f9f040 Recovering log #546
-2024/11/15-04:25:56.161938 ffff78f9f040 Delete type=3 #544
-2024/11/15-04:25:56.161965 ffff78f9f040 Delete type=0 #546
-2024/11/16-22:55:03.009775 ffff7768b040 Level-0 table #551: started
-2024/11/16-22:55:03.009790 ffff7768b040 Level-0 table #551: 0 bytes OK
-2024/11/16-22:55:03.011652 ffff7768b040 Delete type=0 #549
-2024/11/16-22:55:03.013570 ffff7768b040 Manual compaction at level-0 from '!folders!2tZzkwlTjQnRnTMG' @ 72057594037927935 : 1 .. '!journal.pages!xmdj5WGSUcC2SGQt.ja5PHFNKSAQ6jIni' @ 0 : 0; will stop at (end)
-2024/11/16-22:55:03.015499 ffff7768b040 Manual compaction at level-1 from '!folders!2tZzkwlTjQnRnTMG' @ 72057594037927935 : 1 .. '!journal.pages!xmdj5WGSUcC2SGQt.ja5PHFNKSAQ6jIni' @ 0 : 0; will stop at (end)
+2024/11/26-23:20:19.540954 ffff79fbf040 Recovering log #627
+2024/11/26-23:20:19.546629 ffff79fbf040 Delete type=0 #627
+2024/11/26-23:20:19.546652 ffff79fbf040 Delete type=3 #625
+2024/11/27-00:42:01.051315 ffff7768b040 Level-0 table #633: started
+2024/11/27-00:42:01.053335 ffff7768b040 Level-0 table #633: 6607 bytes OK
+2024/11/27-00:42:01.054918 ffff7768b040 Delete type=0 #631
+2024/11/27-00:42:01.055029 ffff7768b040 Manual compaction at level-0 from '!folders!1X8agf6U1o9wrMum' @ 72057594037927935 : 1 .. '!journal.pages!wQjVoh49o0tRLJGw.upUhOBCvAovdvQa4' @ 0 : 0; will stop at (end)
+2024/11/27-00:42:01.055419 ffff7768b040 Manual compaction at level-1 from '!folders!1X8agf6U1o9wrMum' @ 72057594037927935 : 1 .. '!journal.pages!wQjVoh49o0tRLJGw.upUhOBCvAovdvQa4' @ 0 : 0; will stop at '!journal.pages!vdfJEMrj2ezIvXBW.zNbLMTP2iBb8ER69' @ 3989 : 0
+2024/11/27-00:42:01.055427 ffff7768b040 Compacting 1@1 + 1@2 files
+2024/11/27-00:42:01.062800 ffff7768b040 Generated table #634@1: 371 keys, 409731 bytes
+2024/11/27-00:42:01.062812 ffff7768b040 Compacted 1@1 + 1@2 files => 409731 bytes
+2024/11/27-00:42:01.064406 ffff7768b040 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/27-00:42:01.064529 ffff7768b040 Delete type=2 #629
+2024/11/27-00:42:01.064664 ffff7768b040 Delete type=2 #633
+2024/11/27-00:42:01.072744 ffff7768b040 Manual compaction at level-1 from '!journal.pages!vdfJEMrj2ezIvXBW.zNbLMTP2iBb8ER69' @ 3989 : 0 .. '!journal.pages!wQjVoh49o0tRLJGw.upUhOBCvAovdvQa4' @ 0 : 0; will stop at (end)
