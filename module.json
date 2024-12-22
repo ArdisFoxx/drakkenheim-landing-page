@@ -99,6 +99,8 @@
         "type": "module",
         "compatibility": {}
       },
+	  {
+        "id": "multilevel-tokens",
         "type": "module",
         "compatibility": {}
       },
