@@ -1,8 +1,18 @@
-2024/12/07-07:24:24.036882 ffff797af040 Recovering log #316
-2024/12/07-07:24:24.041821 ffff797af040 Delete type=0 #316
-2024/12/07-07:24:24.041842 ffff797af040 Delete type=3 #314
-2024/12/07-08:11:28.194588 ffff7768b040 Level-0 table #321: started
-2024/12/07-08:11:28.194604 ffff7768b040 Level-0 table #321: 0 bytes OK
-2024/12/07-08:11:28.196246 ffff7768b040 Delete type=0 #319
-2024/12/07-08:11:28.199941 ffff7768b040 Manual compaction at level-0 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
-2024/12/07-08:11:28.200254 ffff7768b040 Manual compaction at level-1 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
+2024/12/22-10:28:44.264867 ffff797af040 Recovering log #459
+2024/12/22-10:28:44.269735 ffff797af040 Delete type=3 #457
+2024/12/22-10:28:44.269760 ffff797af040 Delete type=0 #459
+2024/12/22-20:44:49.675966 ffff7768b040 Level-0 table #464: started
+2024/12/22-20:44:49.679718 ffff7768b040 Level-0 table #464: 98068 bytes OK
+2024/12/22-20:44:49.681251 ffff7768b040 Delete type=0 #462
+2024/12/22-20:44:49.683987 ffff7768b040 Manual compaction at level-0 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
+2024/12/22-20:44:49.758370 ffff7768b040 Manual compaction at level-1 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at '!actors.items!nh6H9U5y5v3sltDA.rcBFI36VwJBpTJWF' @ 26340 : 0
+2024/12/22-20:44:49.758378 ffff7768b040 Compacting 1@1 + 2@2 files
+2024/12/22-20:44:49.788290 ffff7768b040 Generated table #465@1: 1608 keys, 2126743 bytes
+2024/12/22-20:44:49.818547 ffff7768b040 Generated table #466@1: 2380 keys, 2130183 bytes
+2024/12/22-20:44:49.821093 ffff7768b040 Generated table #467@1: 14 keys, 17502 bytes
+2024/12/22-20:44:49.821107 ffff7768b040 Compacted 1@1 + 2@2 files => 4274428 bytes
+2024/12/22-20:44:49.822615 ffff7768b040 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/12/22-20:44:49.822702 ffff7768b040 Delete type=2 #464
+2024/12/22-20:44:49.822841 ffff7768b040 Delete type=2 #378
+2024/12/22-20:44:49.823087 ffff7768b040 Delete type=2 #424
+2024/12/22-20:44:49.823686 ffff7768b040 Manual compaction at level-1 from '!actors.items!nh6H9U5y5v3sltDA.rcBFI36VwJBpTJWF' @ 26340 : 0 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)

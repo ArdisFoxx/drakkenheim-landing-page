@@ -1,8 +1,17 @@
-2024/12/07-07:24:23.912895 ffff7878f040 Recovering log #738
-2024/12/07-07:24:23.917870 ffff7878f040 Delete type=3 #736
-2024/12/07-07:24:23.917894 ffff7878f040 Delete type=0 #738
-2024/12/07-08:11:28.186674 ffff7768b040 Level-0 table #743: started
-2024/12/07-08:11:28.186695 ffff7768b040 Level-0 table #743: 0 bytes OK
-2024/12/07-08:11:28.188398 ffff7768b040 Delete type=0 #741
-2024/12/07-08:11:28.190226 ffff7768b040 Manual compaction at level-0 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!wlpIb3iL9VbAXqx4.zJSMCIsreEbEtzC3' @ 0 : 0; will stop at (end)
-2024/12/07-08:11:28.190518 ffff7768b040 Manual compaction at level-1 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!wlpIb3iL9VbAXqx4.zJSMCIsreEbEtzC3' @ 0 : 0; will stop at (end)
+2024/12/22-10:28:44.127793 ffff78f9f040 Recovering log #900
+2024/12/22-10:28:44.132543 ffff78f9f040 Delete type=3 #898
+2024/12/22-10:28:44.132567 ffff78f9f040 Delete type=0 #900
+2024/12/22-20:44:49.590975 ffff7768b040 Level-0 table #907: started
+2024/12/22-20:44:49.613191 ffff7768b040 Level-0 table #907: 1527433 bytes OK
+2024/12/22-20:44:49.615066 ffff7768b040 Delete type=0 #905
+2024/12/22-20:44:49.618061 ffff7768b040 Manual compaction at level-0 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!zLmF6S2u5OLM2G2k.zy2zhhl0atyHkSG8' @ 0 : 0; will stop at (end)
+2024/12/22-20:44:49.620701 ffff7768b040 Manual compaction at level-1 from '!folders!36NSGrGUNHrEkKup' @ 72057594037927935 : 1 .. '!scenes.walls!zLmF6S2u5OLM2G2k.zy2zhhl0atyHkSG8' @ 0 : 0; will stop at '!scenes.walls!zLmF6S2u5OLM2G2k.zy2zhhl0atyHkSG8' @ 78292 : 1
+2024/12/22-20:44:49.620707 ffff7768b040 Compacting 1@1 + 2@2 files
+2024/12/22-20:44:49.652625 ffff7768b040 Generated table #908@1: 3568 keys, 2133581 bytes
+2024/12/22-20:44:49.670294 ffff7768b040 Generated table #909@1: 4913 keys, 1140539 bytes
+2024/12/22-20:44:49.670308 ffff7768b040 Compacted 1@1 + 2@2 files => 3274120 bytes
+2024/12/22-20:44:49.671889 ffff7768b040 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/12/22-20:44:49.672059 ffff7768b040 Delete type=2 #902
+2024/12/22-20:44:49.672668 ffff7768b040 Delete type=2 #903
+2024/12/22-20:44:49.673025 ffff7768b040 Delete type=2 #907
+2024/12/22-20:44:49.675798 ffff7768b040 Manual compaction at level-1 from '!scenes.walls!zLmF6S2u5OLM2G2k.zy2zhhl0atyHkSG8' @ 78292 : 1 .. '!scenes.walls!zLmF6S2u5OLM2G2k.zy2zhhl0atyHkSG8' @ 0 : 0; will stop at (end)
