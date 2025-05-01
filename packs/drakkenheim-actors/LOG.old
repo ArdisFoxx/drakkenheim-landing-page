@@ -1,8 +1,19 @@
-2025/03/17-11:18:11.740073 ffff78f9f040 Recovering log #769
-2025/03/17-11:18:11.745002 ffff78f9f040 Delete type=3 #767
-2025/03/17-11:18:11.745027 ffff78f9f040 Delete type=0 #769
-2025/03/17-20:35:57.705968 ffff7768b040 Level-0 table #776: started
-2025/03/17-20:35:57.705996 ffff7768b040 Level-0 table #776: 0 bytes OK
-2025/03/17-20:35:57.707653 ffff7768b040 Delete type=0 #774
-2025/03/17-20:35:57.710923 ffff7768b040 Manual compaction at level-0 from '!actors!0D5CErLYYFsIAeYL' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
-2025/03/17-20:35:57.711128 ffff7768b040 Manual compaction at level-1 from '!actors!0D5CErLYYFsIAeYL' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
+2025/04/27-09:18:08.832900 ffff79fbf040 Recovering log #979
+2025/04/27-09:18:08.837770 ffff79fbf040 Delete type=3 #977
+2025/04/27-09:18:08.837794 ffff79fbf040 Delete type=0 #979
+2025/04/30-02:44:46.198667 ffff7768b040 Level-0 table #984: started
+2025/04/30-02:44:46.205034 ffff7768b040 Level-0 table #984: 310927 bytes OK
+2025/04/30-02:44:46.206957 ffff7768b040 Delete type=0 #982
+2025/04/30-02:44:46.214967 ffff7768b040 Manual compaction at level-0 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
+2025/04/30-02:44:46.217892 ffff7768b040 Manual compaction at level-1 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at '!actors.items!z1WlhNAvR3n96ddg.yErnnRkR5U7AVPM8' @ 31468 : 1
+2025/04/30-02:44:46.217898 ffff7768b040 Compacting 1@1 + 3@2 files
+2025/04/30-02:44:46.247603 ffff7768b040 Generated table #985@1: 1585 keys, 2126290 bytes
+2025/04/30-02:44:46.277916 ffff7768b040 Generated table #986@1: 2387 keys, 2131474 bytes
+2025/04/30-02:44:46.284323 ffff7768b040 Generated table #987@1: 439 keys, 384043 bytes
+2025/04/30-02:44:46.284337 ffff7768b040 Compacted 1@1 + 3@2 files => 4641807 bytes
+2025/04/30-02:44:46.285869 ffff7768b040 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/04/30-02:44:46.286022 ffff7768b040 Delete type=2 #795
+2025/04/30-02:44:46.286362 ffff7768b040 Delete type=2 #796
+2025/04/30-02:44:46.286495 ffff7768b040 Delete type=2 #984
+2025/04/30-02:44:46.286644 ffff7768b040 Delete type=2 #794
+2025/04/30-02:44:46.293988 ffff7768b040 Manual compaction at level-1 from '!actors.items!z1WlhNAvR3n96ddg.yErnnRkR5U7AVPM8' @ 31468 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
