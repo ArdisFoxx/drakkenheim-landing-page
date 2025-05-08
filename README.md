@@ -1,16 +1,18 @@
 Fan made conversion of Dungeons of Drakkenheim to Pathfinder 2e, complete with landing page and isometric maps.
 
--
-For the Dungeons & Dragons 5e compatible version, use the system agnostic release.
+---------------
 
-https://github.com/ArdisFoxx/drakkenheim-landing-page/releases/download/v1.12.2/module.json
+*For the Dungeons & Dragons 5e compatible version, use the system agnostic release.* https://github.com/ArdisFoxx/drakkenheim-landing-page/releases/download/v1.12.2/module.json
 
-It doesn't have any actors, items or the adventure though (as they are all PF2e now) just the scenes, journals, roll tables and macros. For the journals you need to have the Simple Quest module so I recommend picking that up off TheRipper93's Patreon. Just sub for a month and then download the modules you want and then cancel your sub if you don't want to continue supporting it. The module is worth it. You'll also need Lock View version 1.5.5 (not the latest release as it breaks isometric maps), and Isometric Perspective.
+*That release doesn't have any actors, items or the adventure though (as they are all built for PF2e in the latest releases) just the scenes, journals, roll tables and macros. For the journals you need to have the Simple Quest module so I recommend picking that up off TheRipper93's Patreon. Just sub for a month and then download the modules you want and then cancel your sub if you don't want to continue supporting it. The module is worth it. You'll also need Lock View version 1.5.5 (not the latest release as it breaks isometric maps), and Isometric Perspective.*
+
 https://theripper93.com/module/simple-quest 
+
 https://github.com/CDeenen/LockView/releases/download/v1.5.5/module.json 
+
 https://github.com/arlosmolten/isometric-perspective/releases/latest/download/module.json
 
--
+---------------
 
 This module is published without any licensed content from Ghostfire Gaming or Epic Isometric, but it does rely on their content to fully function. I can supply you with the repackaged files if you email me at ardisfoxxart@gmail.com with a screenshot of your purchase receipt for the Dungeons of Drakkenheim PDF+Maps and your Patreon receipt for Epic Isometric. 
 
