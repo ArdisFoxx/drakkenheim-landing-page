@@ -2,7 +2,9 @@ Fan made conversion of Dungeons of Drakkenheim to Pathfinder 2e, complete with l
 
 -
 For the Dungeons & Dragons 5e compatible version, use the system agnostic release.
+
 https://github.com/ArdisFoxx/drakkenheim-landing-page/releases/download/v1.12.2/module.json
+
 It doesn't have any actors, items or the adventure though (as they are all PF2e now) just the scenes, journals, roll tables and macros. For the journals you need to have the Simple Quest module so I recommend picking that up off TheRipper93's Patreon. Just sub for a month and then download the modules you want and then cancel your sub if you don't want to continue supporting it. The module is worth it. You'll also need Lock View version 1.5.5 (not the latest release as it breaks isometric maps), and Isometric Perspective.
 https://theripper93.com/module/simple-quest 
 https://github.com/CDeenen/LockView/releases/download/v1.5.5/module.json 
