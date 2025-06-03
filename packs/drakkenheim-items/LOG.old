@@ -1,15 +1,8 @@
-2025/04/27-09:18:08.888912 ffff797af040 Recovering log #900
-2025/04/27-09:18:08.893958 ffff797af040 Delete type=3 #898
-2025/04/27-09:18:08.893989 ffff797af040 Delete type=0 #900
-2025/04/30-02:44:46.207174 ffff7768b040 Level-0 table #905: started
-2025/04/30-02:44:46.209736 ffff7768b040 Level-0 table #905: 1603 bytes OK
-2025/04/30-02:44:46.211882 ffff7768b040 Delete type=0 #903
-2025/04/30-02:44:46.214989 ffff7768b040 Manual compaction at level-0 from '!folders!3UtDnFh3MNMGTgo9' @ 72057594037927935 : 1 .. '!items!zyb4VSuU2jlMpu3d' @ 0 : 0; will stop at (end)
-2025/04/30-02:44:46.286913 ffff7768b040 Manual compaction at level-1 from '!folders!3UtDnFh3MNMGTgo9' @ 72057594037927935 : 1 .. '!items!zyb4VSuU2jlMpu3d' @ 0 : 0; will stop at '!items!j1FhP6mHw2Zh1q7k' @ 2159 : 1
-2025/04/30-02:44:46.286922 ffff7768b040 Compacting 1@1 + 1@2 files
-2025/04/30-02:44:46.291247 ffff7768b040 Generated table #906@1: 114 keys, 154306 bytes
-2025/04/30-02:44:46.291260 ffff7768b040 Compacted 1@1 + 1@2 files => 154306 bytes
-2025/04/30-02:44:46.292732 ffff7768b040 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/04/30-02:44:46.292800 ffff7768b040 Delete type=2 #905
-2025/04/30-02:44:46.292889 ffff7768b040 Delete type=2 #705
-2025/04/30-02:44:46.294106 ffff7768b040 Manual compaction at level-1 from '!items!j1FhP6mHw2Zh1q7k' @ 2159 : 1 .. '!items!zyb4VSuU2jlMpu3d' @ 0 : 0; will stop at (end)
+2025/06/03-08:33:55.546512 f45ff97af000 Recovering log #1088
+2025/06/03-08:33:55.555411 f45ff97af000 Delete type=3 #1086
+2025/06/03-08:33:55.555439 f45ff97af000 Delete type=0 #1088
+2025/06/03-11:04:42.335582 f45ed39ff000 Level-0 table #1093: started
+2025/06/03-11:04:42.335595 f45ed39ff000 Level-0 table #1093: 0 bytes OK
+2025/06/03-11:04:42.337484 f45ed39ff000 Delete type=0 #1091
+2025/06/03-11:04:42.341122 f45ed39ff000 Manual compaction at level-0 from '!folders!3UtDnFh3MNMGTgo9' @ 72057594037927935 : 1 .. '!items!zyb4VSuU2jlMpu3d' @ 0 : 0; will stop at (end)
+2025/06/03-11:04:42.343241 f45ed39ff000 Manual compaction at level-1 from '!folders!3UtDnFh3MNMGTgo9' @ 72057594037927935 : 1 .. '!items!zyb4VSuU2jlMpu3d' @ 0 : 0; will stop at (end)
