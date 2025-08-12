@@ -1,8 +1,17 @@
-2025/06/03-08:33:55.510244 f45ff9fbf000 Recovering log #1175
-2025/06/03-08:33:55.515328 f45ff9fbf000 Delete type=3 #1173
-2025/06/03-08:33:55.515353 f45ff9fbf000 Delete type=0 #1175
-2025/06/03-11:04:42.333675 f45ed39ff000 Level-0 table #1181: started
-2025/06/03-11:04:42.333690 f45ed39ff000 Level-0 table #1181: 0 bytes OK
-2025/06/03-11:04:42.335411 f45ed39ff000 Delete type=0 #1179
-2025/06/03-11:04:42.339377 f45ed39ff000 Manual compaction at level-0 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
-2025/06/03-11:04:42.341138 f45ed39ff000 Manual compaction at level-1 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
+2025/08/11-12:14:42.130127 f4717afdf000 Recovering log #1506
+2025/08/11-12:14:42.135321 f4717afdf000 Delete type=3 #1504
+2025/08/11-12:14:42.135350 f4717afdf000 Delete type=0 #1506
+2025/08/12-04:52:34.496688 f470565ff000 Level-0 table #1511: started
+2025/08/12-04:52:34.498834 f470565ff000 Level-0 table #1511: 19340 bytes OK
+2025/08/12-04:52:34.500386 f470565ff000 Delete type=0 #1509
+2025/08/12-04:52:34.504986 f470565ff000 Manual compaction at level-0 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
+2025/08/12-04:52:34.507302 f470565ff000 Manual compaction at level-1 from '!actors!0TSMCZ0BMRSRKM0f' @ 72057594037927935 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at '!actors.items!XL5SczrXX64zZ4ms.lXAoyBh4C4IUhSk3' @ 32570 : 1
+2025/08/12-04:52:34.507307 f470565ff000 Compacting 1@1 + 2@2 files
+2025/08/12-04:52:34.537877 f470565ff000 Generated table #1512@1: 1427 keys, 2123956 bytes
+2025/08/12-04:52:34.566342 f470565ff000 Generated table #1513@1: 2427 keys, 2129269 bytes
+2025/08/12-04:52:34.566358 f470565ff000 Compacted 1@1 + 2@2 files => 4253225 bytes
+2025/08/12-04:52:34.567992 f470565ff000 compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/08/12-04:52:34.568180 f470565ff000 Delete type=2 #1501
+2025/08/12-04:52:34.568642 f470565ff000 Delete type=2 #1502
+2025/08/12-04:52:34.569057 f470565ff000 Delete type=2 #1511
+2025/08/12-04:52:34.571538 f470565ff000 Manual compaction at level-1 from '!actors.items!XL5SczrXX64zZ4ms.lXAoyBh4C4IUhSk3' @ 32570 : 1 .. '!folders!u1ohQiv1cfIvDyaJ' @ 0 : 0; will stop at (end)
